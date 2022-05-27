@@ -1,6 +1,5 @@
 from musics.models import Album, Music
 from django.shortcuts import redirect, render
-from django.http import JsonResponse
 from .form import AddMusicForm
 
 def homePage(request):

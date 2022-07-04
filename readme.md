@@ -1,7 +1,7 @@
 #### 1 - Clone repo
 
 ```
-git clone https://github.com/aloony/django-videochat
+git clone https://github.com/aloony/django-spotify
 ```
 
 #### 2 - Install requirements
